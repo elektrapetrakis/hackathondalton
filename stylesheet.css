@@ -1,0 +1,42 @@
+body {
+background: url("http://i68.tinypic.com/2eluxxy.jpg")no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+    padding-top:300px;
+}
+
+#stayingin {
+position; absolute;
+font-family:'Raleway';
+font-size:100px;
+color:#fff;
+float:left;
+margin-left:80px;
+
+
+}
+#goingout {
+position; absolute;
+font-family:'Raleway';
+font-size:100px;
+color:#000;
+float:right;
+margin-right:80px;
+
+}
+
+#goingout:hover{
+color:#726E6D;
+text-shadow: 0 0 10px #000;
+}
+
+#stayingin:hover{
+color:#726E6D;
+text-shadow: 0 0 10px #000;
+}
+
+a {
+text-decoration:none;
+}
