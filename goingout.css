@@ -1,0 +1,52 @@
+body {
+	font-family:'Raleway';
+	background-color:#f8f2ec;
+	font-size:30px;
+	font-weight:200;
+	padding-left:80px;
+}
+#title {
+	font-size:100px;
+	font-weight:200;
+	color:#333333;
+	margin-top:40px;
+	margin-left: 130px;
+}
+#logo {
+	position:absolute;
+	height:100px;
+	width:100px;
+	top:50px;
+
+}
+#manwalking {
+	position:absolute;
+	height:80px;
+	top:57px;
+	margin-left:720px;
+}
+
+.mapz {
+	height:90px;
+	margin-top:-20px;
+}
+
+.mapz2 {
+	height:90px;
+}
+
+.mapz3 {
+	height:90px;
+}
+
+#cuisine {
+	top:160px;
+	position: absolute;
+	font-size:26px;
+}
+
+#zip {
+	top:510px;
+	position: absolute;
+	font-size:26px;
+}
