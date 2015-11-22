@@ -1,0 +1,39 @@
+body {
+background-color: #f8f2ec;
+        
+}
+
+#stayingin {
+position; absolute;
+font-family:'Raleway';
+font-size:100px;
+font-weight:200;
+font-style: italic;
+color:#fff;
+float:top;
+
+
+}
+
+#description {
+position; absolute;
+font-family:'Raleway';
+font-size:30px;
+color:#454032;
+margin-top: 10px;
+float:center;
+
+}
+
+#ingredientpicker {
+position; absolute;
+font-family:'Raleway';
+font-size: 50px;
+color:#454032;
+
+}
+
+a {
+text-decoration:none;
+}
+
